@@ -1,24 +1,2 @@
-# loqueveng
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![imagen1](https://user-images.githubusercontent.com/27843359/99582219-8febff80-29c0-11eb-9d33-868d40727f3c.jpg)
+![imagen2](https://user-images.githubusercontent.com/27843359/99582223-911d2c80-29c0-11eb-8d76-c178c141e31a.jpg)
